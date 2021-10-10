@@ -1,0 +1,6 @@
+Miner ID: 0 Current timestamp: 1633619925240
+Header: 0 0 0 
+Data: 
+Miner ID: 0 Current timestamp: 1633620004928
+Header: 0 0 0 
+Data: 
